@@ -1,0 +1,7 @@
+engines:
+  nodesecurity:
+    enabled: true
+exclude_paths:
+- "test/*"
+- "coverage/*"
+- "docs/*"
